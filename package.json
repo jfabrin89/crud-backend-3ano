@@ -1,0 +1,16 @@
+{
+  "name": "server-crud-3ano",
+  "version": "1.0.0",
+  "description": "Servidor Back-End do CRUD do 3º Ano - ADS UNIPAR CIANORTE",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johny Fabrin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.39.0"
+  }
+}
